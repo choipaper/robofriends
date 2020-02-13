@@ -13,9 +13,9 @@ const CardList = ({ robots }) => {
     })
     /*
     //This is error boundary 
-    if (true) {
-        throw new Error('Noooooo!');
-    }
+        if (true) {
+            throw new Error('Noooooo!');
+        }
     */
     return (
         <div>
